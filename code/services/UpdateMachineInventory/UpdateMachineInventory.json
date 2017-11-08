@@ -1,0 +1,17 @@
+{
+    "current_version": 1,
+    "dependencies": "",
+    "logging_enabled": "true",
+    "name": "UpdateMachineInventory",
+    "params": [
+        "Quantity",
+        "MachineBinNumber",
+        "VendingMachineID"
+    ],
+    "permissions": {
+        "Equipment": 1,
+        "Maintenance": 1
+    },
+    "run_user": "",
+    "source": "UpdateMachineInventory.js"
+}

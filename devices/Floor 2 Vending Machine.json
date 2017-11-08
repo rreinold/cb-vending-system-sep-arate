@@ -1,0 +1,10 @@
+{
+    "allow_certificate_auth": false,
+    "allow_key_auth": true,
+    "certificate": "",
+    "description": "",
+    "enabled": true,
+    "name": "Floor 2 Vending Machine",
+    "state": "{model: '1AB', location: {address: '103 E. 5th St.', city: 'Austin', state: 'TX', buildingLocation: {}}}",
+    "type": "Vending Machine"
+}

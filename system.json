@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "CB Vending System_sep-arate",
+    "platform_url": "https://staging.clearblade.com",
+    "system_key": "92afc59f0bc68ddfb1e1c3883b",
+    "system_secret": "92AFC59F0B908AE3B2BF979CA59A01"
+}

@@ -1,0 +1,13 @@
+{
+    "current_version": 1,
+    "dependencies": "",
+    "logging_enabled": "false",
+    "name": "sampleAWSGitService",
+    "params": [
+        "input1",
+        "input2"
+    ],
+    "permissions": {},
+    "run_user": "",
+    "source": "sampleAWSGitService.js"
+}

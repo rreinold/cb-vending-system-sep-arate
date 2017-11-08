@@ -1,0 +1,16 @@
+{
+    "current_version": 1,
+    "dependencies": "",
+    "logging_enabled": "true",
+    "name": "ScheduleMachineRepair",
+    "params": [
+        "VendingMachineID",
+        "MaintenanceCode"
+    ],
+    "permissions": {
+        "Equipment": 1,
+        "Maintenance": 1
+    },
+    "run_user": "",
+    "source": "ScheduleMachineRepair.js"
+}

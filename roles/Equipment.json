@@ -1,0 +1,50 @@
+{
+    "Description": "",
+    "ID": "94afc59f0b80e0a68cb7aae4eb6c",
+    "Name": "Equipment",
+    "Permissions": {
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "ScheduleMachineRepair",
+                "SystemKey": "92afc59f0bc68ddfb1e1c3883b"
+            },
+            {
+                "Level": 1,
+                "Name": "UpdateMachineInventory",
+                "SystemKey": "92afc59f0bc68ddfb1e1c3883b"
+            }
+        ],
+        "Collections": [
+            {
+                "Columns": [],
+                "ID": "9aafc59f0bd29a95dcddec9ee965",
+                "Items": [],
+                "Level": 5,
+                "Name": "Vending_Machine_Inventory"
+            },
+            {
+                "Columns": [],
+                "ID": "c6b3e5920b869ade8fee889282cb01",
+                "Items": [],
+                "Level": 5,
+                "Name": "c6b3e5920b869ade8fee889282cb01"
+            }
+        ],
+        "DevicesList": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 2
+        },
+        "Portals": [],
+        "Push": {
+            "Level": 0
+        },
+        "SystemServices": null,
+        "Topics": [],
+        "UsersList": {
+            "Level": 0
+        }
+    }
+}
